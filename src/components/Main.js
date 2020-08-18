@@ -1,8 +1,6 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-import pic01 from '../images/pic01.jpg'
-import pic02 from '../images/pic02.jpg'
-import pic03 from '../images/pic03.jpg'
+
 
 class Main extends React.Component {
   render() {
@@ -81,7 +79,7 @@ I'm proficient in the entire Adobe suite and other tools such as Sketch and Sony
             I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :)
           </p>
           <div style={{"display":"flex", "justifyContent":"space-around"}}>
-              <a href="">Resume</a>
+              <a href="https://drive.google.com/file/d/1ts4knWl5AMhxO7r04EzDEEsY7KGAHyJG/view?usp=sharing" target="_blank">Resume</a>
             </div>
           {close}
         </article>
