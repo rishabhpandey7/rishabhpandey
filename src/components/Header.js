@@ -13,7 +13,7 @@ const Header = props => (
       <div className="inner">
         <h1>Rishabh Pandey</h1>
         <p>
-          Computer Science major at UMass Amherst. Passionate about Space Technology, World Geography and Open Source.
+          Computer Science major at UMass Amherst. Passionate about Space, Geography and Open Source.
           <br />
           I grab every chance I get to travel, learn and create.
         </p>
