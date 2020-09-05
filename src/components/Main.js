@@ -52,6 +52,7 @@ I'm proficient in the entire Adobe suite and other tools such as Sketch and Sony
           <h2 className="major">Work</h2>
           Work Experience
           <ul>
+          <li>Research Assistant at <a href="http://aichengbo.com/" target="_blank">AI Transportation Research Lab, UMass Amherst</a></li>
           <li>Software Engineering Intern at <a href="https://ethicalidentity.com/" target="_blank">Ethical Identity</a></li>
           <li>Co-Founder, Front-End Developer at Lendvie</li>
           <li>Communications Assistant at <a href="https://www.umass.edu/graduate/" target="_blank">UMass Graduate School</a></li>
