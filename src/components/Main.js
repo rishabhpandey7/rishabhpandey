@@ -61,11 +61,11 @@ I'm proficient in the entire Adobe suite and other tools such as Sketch and Sony
           <ul>
           <li>Multi-Potree <a href="https://github.com/rishabhpandey7/multi-potree" target="_blank">[Code]</a></li>
           <li>UKG Peer Recognition <a href="https://github.com/Benedict-Scrumberbatch" target="_blank">[Code]</a>
-          <a href="https://github.com/Benedict-Scrumberbatch" target="_blank">[WebApp]</a><a href="https://github.com/Benedict-Scrumberbatch" target="_blank">[Web App]</a>
-          [Test Credentials: rishabh@benedictscrumberbatch.com, password]</li>
+           <a href="https://peer-recognition-frontend.herokuapp.com/" target="_blank">[Web App]</a> 
+           [Test Credentials: rishabh@benedictscrumberbatch.com, password]</li>
           <li>Billboard Hot-100 Sentiment Analysis <a href="https://github.com/rishabhpandey7/Sentiment-Analysis-of-Billboard-Hot-100" target="_blank">[Code]</a></li>
           <li>TMG-The Movie Guide <a href="https://github.com/rishabhpandey7/TMG-The-Movie-Guide" target="_blank">[Code]</a>
-          <a href="https://expo.io/@rishabhpandey7/tmg-app" target="_blank">[Mobile App]</a></li>
+           <a href="https://expo.io/@rishabhpandey7/tmg-app" target="_blank">[Mobile App]</a></li>
           <li>Beat The Crowds @ UMass <a href="https://github.com/rishabhpandey7/beatTheCrowd" target="_blank">[Code]</a></li>
           </ul>
           {close}
