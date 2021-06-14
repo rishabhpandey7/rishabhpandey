@@ -31,7 +31,7 @@ class Main extends React.Component {
             <img src="https://i.imgur.com/Bz2aFIB.jpg" alt="" />
           </span>
           <p>
-            Thank you for stopping by! My name is Rishabh Pandey. I'm currently a junior Computer Science major at the College of Information and Computer Sciences, UMass Amherst.
+            Thank you for stopping by! My name is Rishabh Pandey. I'm a senior Computer Science major at the College of Information and Computer Sciences, UMass Amherst.
 
 I am a keen learner and a motivated student that is excited by new technologies. My interests include multi-platform Mobile and Web App development, Algorithms & Data Structures, and UI/UX Design. I also like graphic designing and video-editing and 
 I'm proficient in the entire Adobe suite and other tools such as Sketch and Sony Vegas Pro. My hobbies include watching and playing soccer, reading science-fiction, and playing video-games.
@@ -52,18 +52,21 @@ I'm proficient in the entire Adobe suite and other tools such as Sketch and Sony
           <h2 className="major">Work</h2>
           Work Experience
           <ul>
-          <li>Research Assistant at <a href="http://aichengbo.com/" target="_blank">AI Transportation Research Lab, UMass Amherst</a></li>
+          <li>Software Engineer Intern at <a href="https://formlabs.com/" target="_blank">Formlabs</a></li>
+          <li>Software Developer Research Assistant at <a href="http://aichengbo.com/" target="_blank">AI Transportation Research Lab, UMass Amherst</a></li>
           <li>Software Engineering Intern at <a href="https://ethicalidentity.com/" target="_blank">Ethical Identity</a></li>
-          <li>Co-Founder, Front-End Developer at Lendvie</li>
           <li>Communications Assistant at <a href="https://www.umass.edu/graduate/" target="_blank">UMass Graduate School</a></li>
-          <li>Intern at STICHIO</li>
           </ul>
           Some personal projects I have worked on can be found here:
           <ul>
-          <li><a href="https://github.com/rishabhpandey7/TMG-The-Movie-Guide" target="_blank">TMG-The Movie Guide</a></li>
-          <li><a href="https://github.com/rishabhpandey7/label-tester" target="_blank">Label Tester</a></li>
-          <li><a href="https://github.com/rishabhpandey7/Image-Recognizer" target="_blank">Image-Recognizer</a></li>
-          <li><a href="https://github.com/rishabhpandey7/beatTheCrowd" target="_blank">Beat The Crowds @ UMass</a></li>
+          <li>Multi-Potree <a href="https://github.com/rishabhpandey7/multi-potree" target="_blank">[Code]</a></li>
+          <li>UKG Peer Recognition <a href="https://github.com/Benedict-Scrumberbatch" target="_blank">[Code]</a>
+          <a href="https://github.com/Benedict-Scrumberbatch" target="_blank">[WebApp]</a><a href="https://github.com/Benedict-Scrumberbatch" target="_blank">[Web App]</a>
+          [Test Credentials: rishabh@benedictscrumberbatch.com, password]</li>
+          <li>Billboard Hot-100 Sentiment Analysis <a href="https://github.com/rishabhpandey7/Sentiment-Analysis-of-Billboard-Hot-100" target="_blank">[Code]</a></li>
+          <li>TMG-The Movie Guide <a href="https://github.com/rishabhpandey7/TMG-The-Movie-Guide" target="_blank">[Code]</a>
+          <a href="https://expo.io/@rishabhpandey7/tmg-app" target="_blank">[Mobile App]</a></li>
+          <li>Beat The Crowds @ UMass <a href="https://github.com/rishabhpandey7/beatTheCrowd" target="_blank">[Code]</a></li>
           </ul>
           {close}
         </article>
@@ -80,7 +83,7 @@ I'm proficient in the entire Adobe suite and other tools such as Sketch and Sony
             I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :)
           </p>
           <div style={{"display":"flex", "justifyContent":"space-around"}}>
-              <a href="https://drive.google.com/file/d/1ts4knWl5AMhxO7r04EzDEEsY7KGAHyJG/view?usp=sharing" target="_blank">Resume</a>
+              <a href="https://drive.google.com/file/d/1UbEVRMT0WVDFBYviwRRCYG6HshKgmGgS/view?usp=sharing" target="_blank">Resume</a>
             </div>
           {close}
         </article>
