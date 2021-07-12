@@ -83,7 +83,7 @@ I'm proficient in the entire Adobe suite and other tools such as Sketch and Sony
             I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :)
           </p>
           <div style={{"display":"flex", "justifyContent":"space-around"}}>
-              <a href="https://drive.google.com/file/d/1UbEVRMT0WVDFBYviwRRCYG6HshKgmGgS/view?usp=sharing" target="_blank">Resume</a>
+              <a href="https://drive.google.com/file/d/1rsU4dct57b8CZK9PJRV9IP8RKOJKS6nH/view?usp=sharing" target="_blank">Resume</a>
             </div>
           {close}
         </article>
